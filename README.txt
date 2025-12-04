@@ -32,4 +32,4 @@ Files:
 
 ................
 
-Programmer: BonJohn Mayores (BSIT-3B)
+Programmer: Cristine Ebio (BSIT-3B)
