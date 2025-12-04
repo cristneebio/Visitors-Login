@@ -93,7 +93,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </form>
 
         <p class="text-muted small text-center mt-3">
-            Design & Coded By: <strong>BonJohn Mayores</strong>
+          By: <strong>Cristine Ebio</strong>
         </p>
     </div>
 
